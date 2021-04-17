@@ -5,7 +5,7 @@
 - AMD Radeon GPUs
 - Latest official AMDGPU drivers installed
 - Windows 10 64bit
-* Successfully tested with GPU, [AMD Radeon RX 5700 XT](https://www.amd.com/es/products/graphics/amd-radeon-rx-5700-xt) Founder Edition, and PhoenixMiner v5.5c & drivers AMDGPU v[21.3.1](https://drivers.amd.com/drivers/radeon-software-adrenalin-2020-21.3.1-win10-64bit-mar24.exe)
+* Successfully tested with GPU, [AMD Radeon RX 5700 XT](https://www.amd.com/es/products/graphics/amd-radeon-rx-5700-xt) Founder Edition, and PhoenixMiner v5.5c (included) & drivers AMDGPU v[21.3.1](https://drivers.amd.com/drivers/radeon-software-adrenalin-2020-21.3.1-win10-64bit-mar24.exe)
 
 ## Mining
 Clone the repository on your computer, copy the .bat script you want to mine with the PhoenixMiner program, run it, and start mining!!!!
