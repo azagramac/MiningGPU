@@ -21,6 +21,9 @@ You can modify these values at your own risk, if you get a green screen and the 
 
 ## Donation
 BTC (*native segwit*):  `bc1qa9v6chcp7mknmzyz4fed234lmz23pwp6ywerwz`
+
 ETC: `0xf6d6071a91723580cb2bdcd8fd5336d3e55ed074`
+
 LTC: `ltc1qv9gs3w8zggj7cx987ce4kgvag5fmrcec4prl4a`
+
 TRX `TDc849j2XEnvQwfvAt2pB1tEFwtzjMt5Yc`
