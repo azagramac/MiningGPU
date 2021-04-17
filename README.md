@@ -20,7 +20,7 @@ With this configuration, the GPU remains stable during mining with 93W of power 
 You can modify these values at your own risk, if you get a green screen and the computer crashes you should slightly adjust the clock frequency as well as the mV voltage. 
 
 ## Donation
-BTC (*native segwit*):  `bc1qa9v6chcp7mknmzyz4fed234lmz23pwp6ywerwz`
+BTC (*Segwit*):  `3MqGGXrCAHNo7T5L5PWSAaBLi9RXBzos8m`
 
 ETC: `0xf6d6071a91723580cb2bdcd8fd5336d3e55ed074`
 
