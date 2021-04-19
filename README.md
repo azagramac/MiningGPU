@@ -15,7 +15,7 @@ Remember to add exception or disable the antivirus or windows defender, as the P
 The unMineable mining pool is used, my referral code is already included in the .bat scripts so that they only charge a 0.75% network commission, instead of 1%.
 
 ## Testing
-With this configuration, the GPU remains stable during mining with 93W of power consumption, at 1,800Mhz frequency and only 750mV, in a stock GPU without modifying the BIOS, the maximum temperature reached is 57° Celsius and the junction temperature is 62°, with 55% fan power. 
+With this configuration, the GPU remains stable during mining with 93W of power consumption, at 1,800Mhz frequency and only 750mV, in a stock GPU without modifying the BIOS, the maximum temperature reached is 57° Celsius and the junction temperature is 62°, with 55% fan power, the average hashrate is 51.2Mh/s.
 
 You can modify these values at your own risk, if you get a green screen and the computer crashes you should slightly adjust the clock frequency as well as the mV voltage. 
 
