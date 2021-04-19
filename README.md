@@ -24,6 +24,6 @@ BTC (*Segwit*):  `3MqGGXrCAHNo7T5L5PWSAaBLi9RXBzos8m`
 
 ETC: `0xf6d6071a91723580cb2bdcd8fd5336d3e55ed074`
 
-LTC: `ltc1qv9gs3w8zggj7cx987ce4kgvag5fmrcec4prl4a`
+LTC: `Lg6FG3Bzd8T5pECVJ1kD5GrXMuQgek61QB`
 
 TRX `TDc849j2XEnvQwfvAt2pB1tEFwtzjMt5Yc`
