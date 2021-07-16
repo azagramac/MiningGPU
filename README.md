@@ -19,15 +19,15 @@ With this configuration, the GPU remains stable during mining with 93W of power 
 
 You can modify these values at your own risk, if you get a green screen and the computer crashes you should slightly adjust the clock frequency as well as the mV voltage. 
 
-## Donation
-**BTC**: `1DCRu4pnnwtbUYRy1evVw7TzXGW8XMwMNc`
+##### Donation ☕
+###### **BTC**: `1DCRu4pnnwtbUYRy1evVw7TzXGW8XMwMNc`
 
-**ETH**: `0x9C4e7853cB77F57EFd834F540Bc31F4f06562A11`
+###### **ETH**: `0x9C4e7853cB77F57EFd834F540Bc31F4f06562A11`
 
-**LTC** `Lb17DmgDx17ay7pTgEQMcoofev69sMQiPw`
+###### **LTC** `Lb17DmgDx17ay7pTgEQMcoofev69sMQiPw`
 
-**BCH** `qrm2vts6ashzxue2jszwrgmd9ma303450vre8npen8`
+###### **BCH** `qrm2vts6ashzxue2jszwrgmd9ma303450vre8npen8`
 
-**DOGE**: `DADuhsSnxx2VQtGnHXNbbQkym5gr2Zahuo`
+###### **DOGE**: `DADuhsSnxx2VQtGnHXNbbQkym5gr2Zahuo`
 
-**TRX**: `TMWRvSonbHyvjiLN2iE6YBRz1YXvvH3Gpk`
+###### **TRX**: `TMWRvSonbHyvjiLN2iE6YBRz1YXvvH3Gpk`
