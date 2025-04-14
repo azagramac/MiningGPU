@@ -18,16 +18,3 @@ The unMineable mining pool is used, my referral code is already included in the 
 With this configuration, the GPU remains stable during mining with 93W of power consumption, at 1,800Mhz frequency and only 750mV, in a stock GPU without modifying the BIOS, the maximum temperature reached is 50/55° Celsius and the junction temperature is 60/65°, with 55% fan power, the average hashrate is 51.2Mh/s.
 
 You can modify these values at your own risk, if you get a green screen and the computer crashes you should slightly adjust the clock frequency as well as the mV voltage. 
-
-##### Donation ☕
-###### **BTC**: `1DCRu4pnnwtbUYRy1evVw7TzXGW8XMwMNc`
-
-###### **ETH**: `0x9C4e7853cB77F57EFd834F540Bc31F4f06562A11`
-
-###### **LTC** `Lb17DmgDx17ay7pTgEQMcoofev69sMQiPw`
-
-###### **BCH** `qrm2vts6ashzxue2jszwrgmd9ma303450vre8npen8`
-
-###### **DOGE**: `DADuhsSnxx2VQtGnHXNbbQkym5gr2Zahuo`
-
-###### **TRX**: `TMWRvSonbHyvjiLN2iE6YBRz1YXvvH3Gpk`
